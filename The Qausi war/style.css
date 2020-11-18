@@ -1,0 +1,16 @@
+
+
+
+.container
+{
+    text-align: center;
+}
+
+#MyCarousel{
+    background-color: aquamarine;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+img{
+    width: 100%
+}
